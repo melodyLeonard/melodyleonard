@@ -19,11 +19,11 @@ My name is Melody Leonard and I am a fullstack Software Engineer,
 
 over the years, I've gained experience working with 
 
-#nodejs 
-#reactjs 
-#react native
-#graphql 
-#postgresql
+# nodejs 
+# reactjs 
+# react native
+# graphql 
+# postgresql
 
 ...and other related frameworks and technologies to build really optimized, scalable light weight applications and softwares.
 
